@@ -1,8 +1,10 @@
-# React + Vite
+# ProductAppReact
+Fetch and display product data from an external API: https://fakestoreapi.com/products.
+Present the data in a table, card, or list view with fields: title, price, image and rating
+Add Product Form:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Create a form with fields: Product Name, Image, Price,Rating
+Routing:
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Implement navigation between the Home/Dashboard page and the Add Product page.
+Added product is displayed on console
